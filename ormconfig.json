@@ -1,0 +1,22 @@
+{
+   "type": "postgres",
+   "host": "john.db.elephantsql.com",
+   "port": 5432,
+   "username": "xbfauvyn",
+   "password": "s_kdvswxsy0LEol6v8sSt0wYEkbB3iVB",
+   "database": "xbfauvyn",
+   "logging": false,
+   "entities": [
+      "src/entity/*.ts"
+   ],
+   "migrations": [
+      "src/migration/*.ts"
+   ],
+   "subscribers": [
+      "src/subscriber/**/*.ts"
+   ],
+   "cli": {
+      "entitiesDir": "src/entity",
+      "migrationsDir": "src/migration"
+   }
+}
