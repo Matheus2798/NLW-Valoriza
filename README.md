@@ -1,7 +1,14 @@
-# Awesome Project Build with TypeORM
+# NLW Valoriza
 
-Steps to run this project:
+Valoriza é uma plataforma para fazer comentários e elogios entre companheiros de equipe.
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+## 🤖 Tecnologias
+
+- Nodejs
+- Typescript
+- Express
+- JSONWebToken
+
+
+
+Credit by https://github.com/rocketseat-education/nlw-06-nodejs Rocketseat
